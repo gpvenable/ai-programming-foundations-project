@@ -32,6 +32,8 @@ cd ai-programming-foundations-project
 ### 3. Install dependencies
 pip install -r requirements.txt
 
+pip freeze > requirements.txt
+
 ### 4. Open the notebook
 
 Run Jupyter Notebook or open the project in VS Code and open:
